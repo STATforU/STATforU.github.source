@@ -1,5 +1,5 @@
 publishdir: ../STATforU.github.io
-baseurl: https://STATforU.github.io/
+baseurl: https://statforu.github.io/
 title: Vex | hugo landing page template
 theme: vex-hugo
 summarylength: '20'

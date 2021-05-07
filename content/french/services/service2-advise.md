@@ -2,7 +2,7 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/service2-advise.png
+image: images/services/service2-advise.png
 title: Conseiller dans le choix des méthodes statistiques, leur interprétation et la diffusion des résultats
 ---
 

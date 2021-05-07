@@ -2,7 +2,7 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/service3-accompany.png
+image: images/services/service3-accompany.png
 title: Accompany in All the Steps of the Data Analysis Process
 ---
 

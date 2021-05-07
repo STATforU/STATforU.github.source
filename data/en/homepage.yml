@@ -55,11 +55,8 @@ features:
 promo:
   enable : true
   image : "images/computer.png"
-  title : "Special event announcement here..."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : "Very soon ! Training \"initiation to R Commander\""
+  content : "R Commander is an interface on top of the statistical software R that makes it much easier to use. STAT for U proposes a quick training to use it spread on 3 session during lunch time (e-learning in French), [see here](https://github.com/STATforU/course-r_commander)."
 
 
 ############################# About Product #######################

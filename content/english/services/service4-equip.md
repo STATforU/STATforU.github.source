@@ -2,7 +2,7 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/service4-equip.png
+image: images/services/service4-equip.png
 title: Equip with Specific (OpenSource) Software
 ---
 

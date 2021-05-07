@@ -57,11 +57,8 @@ l’utilisation de logiciels d’analyse."
 promo:
   enable : true
   image : "images/computer.png"
-  title : "Annonce d'un évènement spécial ici..."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : "Très bientôt ! Formation \"initiation à R Commander\""
+  content : "R Commander est une interface au dessus du logiciel statistique R qui en facilite grandement l'utilisation. STAT for U vous propose une formation rapide à son utilisation sur 3 sessions de midi en distanciel et en français, [voir ici](https://github.com/STATforU/course-r_commander)."
 
 
 ############################# About Product #######################

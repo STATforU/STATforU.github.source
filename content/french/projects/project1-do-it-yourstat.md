@@ -2,9 +2,11 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/service2-advise.png
-title: Advise in the choice of Statistical methods, Interpretation and Diffusion of your Results
+image: images/projects/project1-do-it-yourstat.png
+title: Do-it-yourstat, vos propres ressources stats
 ---
+
+Soutien à la formation en statistiques et analyse des données. Création d’un outil adaptatif d’aide à l’apprentissage des statistiques (Philippe Grosjean, Kathy Huet, Mélanie Volral, Dimitri Cauchie, Guylian Engels, Alexandre Waroquier)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

@@ -38,7 +38,7 @@ params:
 menu:
   footer:
     - name: Services
-      url: blog
+      url: services
       weight: 1
     - name: Contact
       url: contact
@@ -54,25 +54,28 @@ menu:
       url: /
       weight: 1
     - name: Services
-      url: blog
+      url: services
+      weight: 2
+    - name: Projects
+      url: projects
       weight: 3
-    - name: Projets
-      pre: '#'
-      url: testimonial
-      weight: 4
+    #- name: Blog
+    #  #pre: '#'
+    #  url: blog
+    #  weight: 4
     - name: Contact
       url: contact
       weight: 5
 Languages:
   en:
     contentDir: content/english
-    copyright: Designed By [UMONS people](https://www.umons.ac.be)
+    copyright: Designed By and For [UMONS people](https://www.umons.ac.be)
     languageCode: en-us
     languageName: En
     weight: 2
   fr:
     contentDir: content/french
-    copyright: Conçu par [la communauté UMONS](https://www.umons.ac.be)
+    copyright: Conçu par et pour [la communauté UMONS](https://www.umons.ac.be)
     languageCode: fr-fr
     languageName: Fr
     weight: 1

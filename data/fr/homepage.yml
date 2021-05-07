@@ -18,17 +18,17 @@ features:
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Partager"
+  - title : "[Partager](services/service1-share)"
     icon : "tf-ion-ios-chatboxes-outline"
     content : "des ressources et des expériences (méthodes, exemples, notes techniques, …)"
     
     # feature item loop
-  - title : "Conseiller"
+  - title : "[Conseiller](services/service2-advise)"
     icon : "tf-ion-ios-glasses-outline"
     content : "dans le choix et l’utilisation des méthodes d’analyse statistique appropriées, l’interprétation et la présentation adéquates des résultats statistiques."
     
     # feature item loop
-  - title : "Accompagner"
+  - title : "[Accompagner](services/service3-accompany)"
     icon : "tf-ion-ios-people-outline"
     content : "à toutes les étapes  du processus : du plan d’expérience aux analyses des données et diffusion des résultats."
 
@@ -36,19 +36,19 @@ features:
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Outiller"
+  - title : "[Outiller](services/service4-equip)"
     icon : "tf-ion-ios-analytics-outline"
     content : "en mettant à disposition des logiciels spécifiques et en encourageant les solutions OpenSource…"
 
     # feature item loop
-  - title : "Former"
+  - title : "[Former](services/service5-train)"
     icon : "tf-ion-ios-pie-outline"
     content : "les utilisateurs (la communauté scientifique et 
 les entreprises) à l’usage des méthodes statistiques et 
 l’utilisation de logiciels d’analyse."
 
     # feature item loop
-  - title : "Autre ?"
+  - title : "[Autre ?](contact)"
     icon : "tf-ion-ios-at-outline"
     content : "Nous sommes ouverts à toutes vos propositions."
 
@@ -79,7 +79,7 @@ about_product:
       ... est là pour vous aider dans ces démarches ! Que vous fassiez partie de la communauté UMONS (étudiant, doctorant, chercheur, enseignant, administratif) ou en dehors (entreprise, administration, ...), contactez-nous et exposez-nous votre projet. Nous serons heureux de vous écouter et d'envisager avec vous l'accompagnement qui vous convient le mieux."
       button:
         enable : false
-        label : "Check Features"
+        label : "Pourquoi ?"
         link : "#"
         
     # about product item loop

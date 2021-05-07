@@ -2,8 +2,7 @@
 banner:
   enable : true
   title : "His name ..."
-  content : "An institutional transdisciplinary support plateform in Statistic and more globally in Data Science at UMONS for teaching, research and public service.
-"
+  content : "An institutional transdisciplinary support plateform in Statistic and more globally in Data Science at UMONS for teaching, research and public service."
   image : "images/stats.png"
   button:
    enable : true
@@ -19,17 +18,17 @@ features:
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Share"
+  - title : "[Share](services/service1-share)"
     icon : "tf-ion-ios-chatboxes-outline"
     content : "resources and experiences (methods, examples, technical notes, …)"
     
     # feature item loop
-  - title : "Advise"
+  - title : "[Advise](services/service2-advise)"
     icon : "tf-ion-ios-glasses-outline"
     content : "in the choice and use of appropriate statistical techniques, in the correct interpretation and presentation of statistical results."
     
     # feature item loop
-  - title : "Accompany"
+  - title : "[Accompany](services/service3-accompany)"
     icon : "tf-ion-ios-people-outline"
     content : " at all steps in the process: from the design plan to data analysis and results diffusion."
 
@@ -37,17 +36,17 @@ features:
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Equip"
+  - title : "[Equip](services/service4-equip)"
     icon : "tf-ion-ios-analytics-outline"
     content : " by proposing specific software and encouraging the use of OpenSource solutions…"
 
     # feature item loop
-  - title : "Train"
+  - title : "[Train](services/service5-train)"
     icon : "tf-ion-ios-pie-outline"
     content : "users (scientific community and entreprises) to use statistic methods and software."
 
     # feature item loop
-  - title : "More?"
+  - title : "[More?](contact)"
     icon : "tf-ion-ios-at-outline"
     content : "We are open to all your ideas."
 

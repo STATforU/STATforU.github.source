@@ -2,8 +2,8 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/showcase-2.png
-title: Why You Should Buy a Smart Watch.
+image: images/showcase/service1-share.png
+title: Share Resources and Experiences
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -2,8 +2,8 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/showcase-3.png
-title: Best Watch Strap In Your Budget
+image: images/showcase/service1-share.png
+title: Partager des ressources et des expériences
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

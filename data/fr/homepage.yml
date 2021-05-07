@@ -1,61 +1,63 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  title : "Son nom..."
+  content : "Une plateforme institutionnelle transdisciplinaire de support en Statistique et plus généralement en Science des Données à l’UMONS pour la recherche, l’enseignement et les services à la société."
+  image : "images/stats.png"
   button:
    enable : true
-   label : "Browse All Products"
-   link : "products"
+   label : "En savoir plus..."
+   link : "blog"
 
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
-  image : "images/watch-2.png"
+  title : "Services en un clin d'œil"
+  image : "images/services-fr.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Partager"
+    icon : "tf-ion-ios-chatboxes-outline"
+    content : "des ressources et des expériences (méthodes, exemples, notes techniques, …)"
     
     # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Conseiller"
+    icon : "tf-ion-ios-glasses-outline"
+    content : "dans le choix et l’utilisation des méthodes d’analyse statistique appropriées, l’interprétation et la présentation adéquates des résultats statistiques."
     
     # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Accompagner"
+    icon : "tf-ion-ios-people-outline"
+    content : "à toutes les étapes  du processus : du plan d’expérience aux analyses des données et diffusion des résultats."
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Outiller"
+    icon : "tf-ion-ios-analytics-outline"
+    content : "en mettant à disposition des logiciels spécifiques et en encourageant les solutions OpenSource…"
 
     # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Former"
+    icon : "tf-ion-ios-pie-outline"
+    content : "les utilisateurs (la communauté scientifique et 
+les entreprises) à l’usage des méthodes statistiques et 
+l’utilisation de logiciels d’analyse."
 
     # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Autre ?"
+    icon : "tf-ion-ios-at-outline"
+    content : "Nous sommes ouverts à toutes vos propositions."
 
 
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/watch.png"
-  title : "Designed by professional , the benefit for creative gigs"
+  image : "images/computer.png"
+  title : "Annonce d'un évènement spécial ici..."
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
             nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
             <br><br>
@@ -65,65 +67,69 @@ promo:
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Pourquoi STAT for U ?"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/analysis.png"
+      title : "Les données sont partout et toujours plus abondantes"
+      content : "Dans un monde toujours plus numérique et connecté, les données sont partout ! Elles sont riches, abondantes, pleines d'informations utiles. En sciences ou ailleurs, les statistiques, et la science des données en général, sont de plus en plus incontournables pour gérer, traiter, analyser, interpréter, valoriser et présenter ses données.
+      <br/><br/>
+      Il n'est pas toujours facile pour tout le monde de travailler correctement sur ses données. Les logiciels statistiques spécialisés, les nombreux formats de données, les bonnes pratiques, et la législation (entre autres, le Règlement Général pour la Protection des Données, RGPD en Europe) font que ce travail est souvent vu comme une affaire de spécialiste. Pourtant, bien guidé et bien conseillé, vous pourrez faire beaucoup de chemin par vous-même. Et si le travail est trop spécialisé, vous recherchez un expert du domaine pour vous y aider.
+      <br/><br/>
+      ... est là pour vous aider dans ces démarches ! Que vous fassiez partie de la communauté UMONS (étudiant, doctorant, chercheur, enseignant, administratif) ou en dehors (entreprise, administration, ...), contactez-nous et exposez-nous votre projet. Nous serons heureux de vous écouter et d'envisager avec vous l'accompagnement qui vous convient le mieux."
       button:
         enable : false
         label : "Check Features"
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/creators.png"
+      title : "Historique"
+      content : "Le ... a été créé en 2021 à l'initiative de deux professeurs de l'Université de Mons :
+
+      - Philippe Grosjean, biologiste enseignant les sciences des données et l'écologie marine à la Faculté des sciences
+
+      - Kathy Huet, physicienne, qui enseigne la méthodologie de la recherche, la statistique et la métrologie à la Faculté de Psychologie et des Sciences de l’Education"
       button:
         enable : false
-        label : "Check Features"
+        label : "Historique"
         link : "#"
 
 
 #################################### Products ########################
 products:
-  enable : true
-  title : "Checkout Our All Products"
+  enable : false
+  title : "Voyez nos produits"
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
   bg_image : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder : "Your Email Address Here"
+  title : "Évènements STAT for U"
+  content : "Inscrivez-vous pour vous tenir informé de nos formations et présentations."
+  placeholder : "Votre adresse Email ici"
 
 
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "Ce que la communauté UMONS en dit..."
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
+    - name : "Evelyne Schmidt"
+      designation : "Post-doctorante à ..."
+      image : "images/testimonial1.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
+    - name : "John Doe"
+      designation : "Chercheur à ..."
+      image : "images/testimonial2.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
+    - name : "Nathalie Hund"
+      designation : "Étudiante en ..."
+      image : "images/testimonial3.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."

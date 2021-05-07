@@ -2,8 +2,8 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/showcase-3.png
-title: Meilleur bracelet de montre dans votre budget
+image: images/showcase/service4-equip.png
+title: Equip with Specific (OpenSource) Software
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

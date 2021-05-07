@@ -2,8 +2,8 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/showcase-1.png
-title: How to choose right watch for you.
+image: images/showcase/service3-accompany.png
+title: Accompagner à toutes les étapes du processus d'analyse de données
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -1,6 +1,6 @@
 publishdir: ../STATforU.github.io
 baseurl: https://statforu.github.io/
-title: Vex | hugo landing page template
+title: STAT for U | UMONS
 theme: vex-hugo
 summarylength: '20'
 googleAnalytics: ''
@@ -10,12 +10,12 @@ markup:
     renderer:
       unsafe: yes
 params:
-  author: Themefisher
+  author: UMONS
   contact_form_action: '#'
-  currency: $
-  description: This is meta description
+  currency: €
+  description: Institutional platform for statistic and data science
   logo: images/logo.png
-  logo_width: 100px
+  logo_width: 120px
   plugins:
     css:
       - link: https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700
@@ -37,29 +37,26 @@ params:
     mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
 menu:
   footer:
-    - name: Blog
+    - name: Services
       url: blog
       weight: 1
     - name: Contact
       url: contact
       weight: 2
-    - name: Terms & Conditions
+    - name: Termes & Conditions
       url: terms-conditions
       weight: 3
-    - name: Privacy Policy
+    - name: Politique de Confidentialité
       url: privacy-policy
       weight: 4
   main:
     - name: Home
       url: /
       weight: 1
-    - name: Products
-      url: products
-      weight: 2
-    - name: Blog
+    - name: Services
       url: blog
       weight: 3
-    - name: Review
+    - name: Projets
       pre: '#'
       url: testimonial
       weight: 4
@@ -69,15 +66,13 @@ menu:
 Languages:
   en:
     contentDir: content/english
-    copyright: Designed By [Themefisher](https://themefisher.com/) & Developed By
-      [Gethugothemes](https://gethugothemes.com/)
+    copyright: Designed By [UMONS people](https://www.umons.ac.be)
     languageCode: en-us
     languageName: En
-    weight: 1
+    weight: 2
   fr:
     contentDir: content/french
-    copyright: Designed By [Themefisher](https://themefisher.com/) & Developed By
-      [Gethugothemes](https://gethugothemes.com/)
+    copyright: Conçu par [la communauté UMONS](https://www.umons.ac.be)
     languageCode: fr-fr
     languageName: Fr
-    weight: 2
+    weight: 1

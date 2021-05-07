@@ -2,8 +2,8 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/showcase-4.png
-title: Regardez ça compte
+image: images/showcase/service5-train.png
+title: Former les utilisateurs aux statistiques et science des données
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

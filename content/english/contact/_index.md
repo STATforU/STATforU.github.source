@@ -2,21 +2,18 @@
 description: this is a meta description
 draft: false
 office:
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna
-  email: demo@email.com
-  location: Dhaka, Bangladedsh
-  mobile: "0124857985320"
-  title: Central Office
+  content: STAT for U is inter-faculty. Our main office is at ...
+  email: statforu@umons.ac.be
+  location: Mons, Belgique
+  mobile: "+3265373144 or +3265373497"
+  title: Our Headquarter
 opennig_hour:
   day_time:
-  - 'Monday: 9:00 – 19:00'
-  - 'Tuesday: 9:00 – 19:00'
-  - 'Wednesday: 9:00 – 19:00'
-  - 'Thursday: 9:00 – 19:00'
-  - 'Friday: 9:00 – 19:00'
-  - 'Saturday: 9:00 – 19:00'
-  - 'sunday: 9:00 – 19:00'
-  title: Opening Hours
+  - 'General: [Kathy Huet](mailto:kathy.huet@umons.ac.be)'
+  - 'Software: [Philippe Grosjean](mailto:philippe.grosjean@umons.ac.be)'
+  - 'Training: [Guyliann Engels](mailto:guyliann.engels@umons.ac.be)'
+  - 'Consultancy: [Kathy Huet](mailto:kathy.huet@umons.ac.be) & [Philippe Grosjean](mailto:philippe.grosjean@umons.ac.be)'
+  - 'Events: [Guyliann Engels](mailto:guyliann.engels@umons.ac.be)'
+  title: Who to Contact?
 title: Contact
 ---

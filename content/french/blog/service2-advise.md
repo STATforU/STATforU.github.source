@@ -2,8 +2,8 @@
 date: "2019-10-17T11:22:16+06:00"
 description: this is a meta description
 draft: false
-image: images/showcase/showcase-2.png
-title: Pourquoi acheter une montre intelligente.
+image: images/showcase/service2-advise.png
+title: Conseiller dans le choix des méthodes statistiques, leur interprétation et la diffusion des résultats
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

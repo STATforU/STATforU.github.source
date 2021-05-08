@@ -35,37 +35,7 @@ params:
   subscription:
     mailchimp_form_action: https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
     mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
-menu:
-  footer:
-    - name: Services
-      url: services
-      weight: 1
-    - name: Contact
-      url: contact
-      weight: 2
-    - name: Termes & Conditions
-      url: terms-conditions
-      weight: 3
-    - name: Politique de Confidentialité
-      url: privacy-policy
-      weight: 4
-  main:
-    - name: Home
-      url: /
-      weight: 1
-    - name: Services
-      url: services
-      weight: 2
-    - name: Projects
-      url: projects
-      weight: 3
-    #- name: Blog
-    #  #pre: '#'
-    #  url: blog
-    #  weight: 4
-    - name: Contact
-      url: contact
-      weight: 5
+defaultContentLanguage: fr
 Languages:
   en:
     contentDir: content/english
@@ -73,9 +43,71 @@ Languages:
     languageCode: en-us
     languageName: En
     weight: 2
+    menu:
+      footer:
+        - name: Services
+          url: services
+          weight: 1
+        - name: Contact
+          url: contact
+          weight: 2
+        - name: Terms & Conditions
+          url: terms-conditions
+          weight: 3
+        - name: Privacy Policy
+          url: privacy-policy
+          weight: 4
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Services
+          url: services
+          weight: 2
+        - name: Projects
+          url: projects
+          weight: 3
+        #- name: Blog
+        #  #pre: '#'
+        #  url: blog
+        #  weight: 4
+        - name: Contact
+          url: contact
+          weight: 5
   fr:
     contentDir: content/french
     copyright: Conçu par et pour [la communauté UMONS](https://www.umons.ac.be)
     languageCode: fr-fr
     languageName: Fr
     weight: 1
+    menu:
+      footer:
+        - name: Services
+          url: services
+          weight: 1
+        - name: Contact
+          url: contact
+          weight: 2
+        - name: Termes & conditions
+          url: terms-conditions
+          weight: 3
+        - name: Politique de confidentialité
+          url: privacy-policy
+          weight: 4
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Services
+          url: services
+          weight: 2
+        - name: Projets
+          url: projects
+          weight: 3
+        #- name: Blog
+        #  #pre: '#'
+        #  url: blog
+        #  weight: 4
+        - name: Contact
+          url: contact
+          weight: 5

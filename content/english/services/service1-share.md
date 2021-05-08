@@ -6,8 +6,24 @@ image: images/services/service1-share.png
 title: Share Resources and Experiences
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Inline resources related to statistics and data sciences that are useful for the UMONS cummunity and others. Series of useful links and medias.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+**This shared space is yours.** It allows you to share resources and experiences in cience and pedagogy : methods, examples, technical notes, pedagogical material, tutorials, ...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+### Generalities
+
+- [GitHub STAT for U Organisation](https://github.com/STATforU). Resources that are complimentary to this web site.
+
+- ...
+
+### Inline courses
+
+- [Biological Data Science](https://wp.sciviews.org) : a series of courses in French that our students in biology in the Faculty of Science use.
+
+- ...
+
+### Statistical resources
+
+- [Multilingual Glossary of Statistical Terms](https://www.isi-web.org/isi.cbs.nl/glossary/). You are not sure of the translation of a specific statistic term in another language? This specialized glossary could help you.
+
+- ...

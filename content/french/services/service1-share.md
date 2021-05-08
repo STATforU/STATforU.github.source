@@ -6,8 +6,24 @@ image: images/services/service1-share.png
 title: Partager des ressources et des expériences
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ressources en ligne liées aux statistiques et aux sciences de données utiles à la communauté UMONS et au delà. Ensemble de liens et de médias utiles.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+**Cet espace de partage est le vôtre.** Il doit vous permettre de partager des ressources et des expériences tant scientifiques que pédagogiques : méthodes, exemples, notes techniques, séquences pédagogiques, tutoriels, matériel didactique, …
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+### Généralités
+
+- [Organisation GitHub STAT for U](https://github.com/STATforU). Ressources complémentaires à ce site web.
+
+- ...
+
+### Cours en ligne
+
+- [Science des données biologiques](https://wp.sciviews.org) : ensemble de cours dispensés en français dans le cursus de biologie en Faculté des sciences depuis le second Bachelier jusqu'au second Master inclus.
+
+- ...
+
+### Ressources statistiques
+
+- [Glossaire multilingue de termes statistiques](https://www.isi-web.org/isi.cbs.nl/glossary/). Pas certain de la traduction d'un terme statistique ? Ce glossaire spécialisé pourra vous aider.
+
+- ...

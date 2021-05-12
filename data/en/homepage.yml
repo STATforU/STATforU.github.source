@@ -1,13 +1,13 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "His name ..."
-  content : "An institutional transdisciplinary support plateform in Statistic and more globally in Data Science at UMONS for teaching, research and public service."
+  title : "STAT for U"
+  content : "<h3><b>Support Platform in Statistic and Data Science at UMONS</b></h3><br/><p>Institutional and transdisciplinary support in statistic and more globally in data science at UMONS for teaching, research and public service.</p>"
   image : "images/stats.png"
   button:
    enable : true
    label : "More about it..."
-   link : "blog"
+   link : "services"
 
 ############################# Feature ############################
 features:
@@ -21,12 +21,12 @@ features:
   - title : "[Share](services/service1-share)"
     icon : "tf-ion-ios-chatboxes-outline"
     content : "resources and experiences (methods, examples, technical notes, …)"
-    
+
     # feature item loop
   - title : "[Advise](services/service2-advise)"
     icon : "tf-ion-ios-glasses-outline"
     content : "in the choice and use of appropriate statistical techniques, in the correct interpretation and presentation of statistical results."
-    
+
     # feature item loop
   - title : "[Accompany](services/service3-accompany)"
     icon : "tf-ion-ios-people-outline"
@@ -56,7 +56,7 @@ promo:
   enable : true
   image : "images/computer.png"
   title : "Very soon ! Training \"initiation to R Commander\""
-  content : "R Commander is an interface on top of the statistical software R that makes it much easier to use. STAT for U proposes a quick training to use it spread on 3 session during lunch time (e-learning in French), [see here](https://github.com/STATforU/course-r_commander)."
+  content : "R Commander is an interface on top of the statistical software R that makes it much easier to use. STAT for U proposes a quick training to use it spread on three sessions during lunch time (e-learning in French), [see here](https://github.com/STATforU/course-r_commander)."
 
 
 ############################# About Product #######################
@@ -67,24 +67,24 @@ about_product:
     # about product item loop
     - image : "images/analysis.png"
       title : "Data are everywhere and always more abundant"
-      content : "Dans un monde toujours plus numérique et connecté, les données sont partout ! Elles sont riches, abondantes, pleines d'informations utiles. En sciences ou ailleurs, les statistiques, et la science des données en général, sont de plus en plus incontournables pour gérer, traiter, analyser, interpréter, valoriser et présenter ses données.
+      content : "In a numerical and connected world, data are everywhere! They are rich, abundant, full of useful informations. Statistic and data science are indispensable to deal with, analyse, interpret, valorise and present your data.
       <br/><br/>
-      Il n'est pas toujours facile pour tout le monde de travailler correctement sur ses données. Les logiciels statistiques spécialisés, les nombreux formats de données, les bonnes pratiques, et la législation (entre autres, le Règlement Général pour la Protection des Données, RGPD en Europe) font que ce travail est souvent vu comme une affaire de spécialiste. Pourtant, bien guidé et bien conseillé, vous pourrez faire beaucoup de chemin par vous-même. Et si le travail est trop spécialisé, vous recherchez un expert du domaine pour vous y aider.
+      Processing its own data is not necessarily easy for everyone. Specialized statistical software, numerous data formats, good practices and legal aspects (General Data Protection Regulation in Europe) make it a specialist work, at least in the mind of many people. Yet, correctly guided and advised, you could do a lot by yourself. And if the work is too specialized, an expert in the domain could help you.
       <br/><br/>
-      ... est là pour vous aider dans ces démarches ! Que vous fassiez partie de la communauté UMONS (étudiant, doctorant, chercheur, enseignant, administratif) ou en dehors (entreprise, administration, ...), contactez-nous et exposez-nous votre projet. Nous serons heureux de vous écouter et d'envisager avec vous l'accompagnement qui vous convient le mieux."
+      STAT for U is there to support you in your quest. No mather if you are part of the UMONS community (student, PhD candidate, post-doc, scientist, teacher or administrative officer) or not (business, administration, ...), [contact us](contact) and share your project with us. We will be happy to listen to you and to plan with you the support that best suits your needs."
       button:
         enable : false
         label : "Why?"
         link : "#"
-        
+
     # about product item loop
     - image : "images/creators.png"
       title : "History"
-      content : "Le ... a été créé en 2021 à l'initiative de deux professeurs de l'Université de Mons :
+      content : "STAT for U was funded in 2021 at the initiative of two professors at the University of Mons :
 
-      - Philippe Grosjean, biologiste enseignant les sciences des données et l'écologie marine à la Faculté des sciences
+  - Kathy Huet, physicist, teaching research methodology, statistic and metrology at the Faculty of Psychology and Education Sciences
 
-      - Kathy Huet, physicienne, qui enseigne la méthodologie de la recherche, la statistique et la métrologie à la Faculté de Psychologie et des Sciences de l’Education000"
+  - Philippe Grosjean, bioengineer, teaching data science and marine ecology at the Faculty of Science"
       button:
         enable : false
         label : "History"
@@ -108,7 +108,7 @@ subscription:
 
 ############################## Testimonial ##########################
 testimonial:
-  enable : true
+  enable : false
   title : "What the UMONS community says..."
   testimonial_item:
     # testimonial item loop
@@ -116,13 +116,13 @@ testimonial:
       designation : "Post-doc at ..."
       image : "images/testimonial1.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+
     # testimonial item loop
     - name : "John Doe"
       designation : "Scientist at ..."
       image : "images/testimonial2.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+
     # testimonial item loop
     - name : "Nathalie Hund"
       designation : "Stendent in ..."

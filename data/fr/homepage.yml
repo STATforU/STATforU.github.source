@@ -1,13 +1,13 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Son nom..."
-  content : "Une plateforme institutionnelle transdisciplinaire de support en Statistique et plus généralement en Science des Données à l’UMONS pour la recherche, l’enseignement et les services à la société."
+  title : "STAT for U"
+  content : "<h3><b>Plateforme d'appui en statistique et science des données de l'UMONS</b></h3><br/><p>Support institutionnel et transdisciplinaire en statistique et plus généralement en science des données à l’UMONS pour la recherche, l’enseignement et les services à la société.</p>"
   image : "images/stats.png"
   button:
    enable : true
    label : "En savoir plus..."
-   link : "blog"
+   link : "services"
 
 ############################# Feature ############################
 features:
@@ -21,12 +21,12 @@ features:
   - title : "[Partager](services/service1-share)"
     icon : "tf-ion-ios-chatboxes-outline"
     content : "des ressources et des expériences (méthodes, exemples, notes techniques, …)"
-    
+
     # feature item loop
   - title : "[Conseiller](services/service2-advise)"
     icon : "tf-ion-ios-glasses-outline"
     content : "dans le choix et l’utilisation des méthodes d’analyse statistique appropriées, l’interprétation et la présentation adéquates des résultats statistiques."
-    
+
     # feature item loop
   - title : "[Accompagner](services/service3-accompany)"
     icon : "tf-ion-ios-people-outline"
@@ -43,8 +43,8 @@ features:
     # feature item loop
   - title : "[Former](services/service5-train)"
     icon : "tf-ion-ios-pie-outline"
-    content : "les utilisateurs (la communauté scientifique et 
-les entreprises) à l’usage des méthodes statistiques et 
+    content : "les utilisateurs (la communauté scientifique et
+les entreprises) à l’usage des méthodes statistiques et
 l’utilisation de logiciels d’analyse."
 
     # feature item loop
@@ -69,24 +69,24 @@ about_product:
     # about product item loop
     - image : "images/analysis.png"
       title : "Les données sont partout et toujours plus abondantes"
-      content : "Dans un monde toujours plus numérique et connecté, les données sont partout ! Elles sont riches, abondantes, pleines d'informations utiles. En sciences ou ailleurs, les statistiques, et la science des données en général, sont de plus en plus incontournables pour gérer, traiter, analyser, interpréter, valoriser et présenter ses données.
+      content : "Dans un monde numérique et connecté, les données sont partout ! Elles sont riches, abondantes, pleines d'informations utiles. La statistique et la science des données sont de plus en plus incontournables pour traiter, analyser, interpréter, valoriser et présenter vos données.
       <br/><br/>
-      Il n'est pas toujours facile pour tout le monde de travailler correctement sur ses données. Les logiciels statistiques spécialisés, les nombreux formats de données, les bonnes pratiques, et la législation (entre autres, le Règlement Général pour la Protection des Données, RGPD en Europe) font que ce travail est souvent vu comme une affaire de spécialiste. Pourtant, bien guidé et bien conseillé, vous pourrez faire beaucoup de chemin par vous-même. Et si le travail est trop spécialisé, vous recherchez un expert du domaine pour vous y aider.
+      Il n'est pas toujours facile pour tout le monde de travailler correctement sur ses données. Les logiciels statistiques spécialisés, les nombreux formats de données, les bonnes pratiques, et la législation (le Règlement Général pour la Protection des Données en Europe) font que ce travail est souvent vu comme une affaire de spécialiste. Pourtant, bien guidé et bien conseillé, vous pourrez faire beaucoup de chemin par vous-même. Et si le travail est trop spécialisé, un expert du domaine peut vous y aider.
       <br/><br/>
-      ... est là pour vous aider dans ces démarches ! Que vous fassiez partie de la communauté UMONS (étudiant, doctorant, chercheur, enseignant, administratif) ou en dehors (entreprise, administration, ...), contactez-nous et exposez-nous votre projet. Nous serons heureux de vous écouter et d'envisager avec vous l'accompagnement qui vous convient le mieux."
+      STAT for U est là pour vous aider dans ces démarches. Que vous fassiez partie de la communauté UMONS (étudiant, doctorant, chercheur, enseignant, administratif) ou en dehors (entreprise, administration, ...), [contactez-nous](contact) et exposez-nous votre projet. Nous serons heureux de vous écouter et d'envisager avec vous l'accompagnement qui vous convient le mieux."
       button:
         enable : false
         label : "Pourquoi ?"
         link : "#"
-        
+
     # about product item loop
     - image : "images/creators.png"
       title : "Historique"
-      content : "Le ... a été créé en 2021 à l'initiative de deux professeurs de l'Université de Mons :
+      content : "STAT for U a été créé en 2021 à l'initiative de deux professeurs de l'Université de Mons :
 
-      - Philippe Grosjean, biologiste enseignant les sciences des données et l'écologie marine à la Faculté des sciences
+- Kathy Huet, physicienne, qui enseigne la méthodologie de la recherche, la statistique et la métrologie à la Faculté de Psychologie et des Sciences de l’Education
 
-      - Kathy Huet, physicienne, qui enseigne la méthodologie de la recherche, la statistique et la métrologie à la Faculté de Psychologie et des Sciences de l’Education"
+- Philippe Grosjean, bioingénieur enseignant les sciences des données et l'écologie marine à la Faculté des Sciences"
       button:
         enable : false
         label : "Historique"
@@ -110,7 +110,7 @@ subscription:
 
 ############################## Testimonial ##########################
 testimonial:
-  enable : true
+  enable : false
   title : "Ce que la communauté UMONS en dit..."
   testimonial_item:
     # testimonial item loop
@@ -118,13 +118,13 @@ testimonial:
       designation : "Post-doctorante à ..."
       image : "images/testimonial1.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+
     # testimonial item loop
     - name : "John Doe"
       designation : "Chercheur à ..."
       image : "images/testimonial2.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+
     # testimonial item loop
     - name : "Nathalie Hund"
       designation : "Étudiante en ..."

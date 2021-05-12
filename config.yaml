@@ -13,7 +13,7 @@ params:
   author: UMONS
   contact_form_action: '#'
   currency: €
-  description: Institutional platform for statistic and data science
+  description: Support platform for statistic and data science
   logo: images/logo.png
   logo_width: 120px
   plugins:
@@ -39,7 +39,7 @@ defaultContentLanguage: fr
 Languages:
   en:
     contentDir: content/english
-    copyright: Designed By and For [UMONS people](https://www.umons.ac.be)
+    copyright: Designed By and For [UMONS people](https://web.umons.ac.be/en/)
     languageCode: en-us
     languageName: En
     weight: 2
@@ -74,6 +74,9 @@ Languages:
         - name: Contact
           url: contact
           weight: 5
+        - name: UMONS
+          url: "https://web.umons.ac.be/en/"
+          weight: 6
   fr:
     contentDir: content/french
     copyright: Conçu par et pour [la communauté UMONS](https://www.umons.ac.be)
@@ -111,3 +114,6 @@ Languages:
         - name: Contact
           url: contact
           weight: 5
+        - name: UMONS
+          url: "https://www.umons.ac.be"
+          weight: 6
